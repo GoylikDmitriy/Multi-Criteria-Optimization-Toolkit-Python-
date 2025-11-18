@@ -27,10 +27,10 @@ The program automates loading input data from Excel, normalizes criteria, determ
 
 The program expects an Excel file containing a table of criteria values, for example:
 
-| Alternative | C1 | C2 | C3 | ... |
+| Point Number | C1 | C2 | C3 | ... |
 | ----------- | -- | -- | -- | --- |
 
-**criteria.xlsx** is exmaple of input data file.
+**criteria.xlsx** is example of input data file.
 
 ## Output
 
